@@ -12,7 +12,7 @@ It serves as both a backup and a way to track my progress as I improve my Python
 ---
 
 ## 📊 Progress
-- ✅ Completed: 8 exercises
+- ✅ Completed: 12 exercises
 - 🎯 Goal: Finish the entire track
 
 ---
